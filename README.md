@@ -14,7 +14,7 @@ The problem first comes from [LeetCode#37](https://leetcode.com/problems/sudoku-
 
 ![sudoku_puzzle_solution.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)
 
-####Note:
+#### Note:
 
 + The given board contain only digits 1-9 and the character '.'.
 + You may assume that the given Sudoku puzzle will have a single unique solution.
